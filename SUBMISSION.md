@@ -14,18 +14,18 @@ Patrick Fisher - 1906089
 
 # Maven [30 pts]
 - [5 pts] A screen capture showing the version of Maven that you installed and its install directory.
-![Screen Capture #1](images/maven-version.png)
+![Output of maven -v command](images/maven-version.png)
 - [10 pts] A screen capture showing a successful build using the Maven script.
-![Screen Capture #1](images/maven-package.png)
+![Output of maven clean package](images/maven-package.png)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Maven build.
-![Screen Capture #1](images/maven-run.png)
+![Output of running the maven jar with java](images/maven-run.png)
 - [10 pts] Links to the complete and correct [hello-world/pom.xml](hello-world/pom.xml) file.
 
 # Gradle [30 pts]
 - [5 pts]A screen capture showing the version of Gradle that you installed and its install directory.
-![Screen Capture #1](images/gradle-version.png)
+![Output of gradle -v command](images/gradle-version.png)
 - [10 pts] A screen capture showing a successful build using the Gradle script.
-![Screen Capture #1](images/gradle-package.png)
+![Output of gradle jar build command](images/gradle-package.png)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Gradle build.
-![Screen Capture #1](images/gradle-run.png)
+![Output of running the gradle jar with java](images/gradle-run.png)
 - [10 pts] Links to the complete and correct [hello-world/build.gradle](hello-world/build.gradle) file.
